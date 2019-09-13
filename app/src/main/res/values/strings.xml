@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test app</string>
+    <string name="load_error">Error!</string>
+    <string name="retry">Retry</string>
+    <string name="error_forbidden">Forbidden to make so often request. Please wait a minute.</string>
+    <string name="load">Load</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
